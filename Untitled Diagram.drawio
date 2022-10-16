@@ -1,1 +1,262 @@
-<mxfile host="app.diagrams.net" modified="2022-10-15T07:46:34.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="-saF4IWcf-p6JXLuM4fL" version="20.4.1" type="github"><diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">3VtNk5s4EP01Ps4UQuCPY+Yre9mqVE2qsjkyIBtqMGKFPLbz61cyEga1PJFtDKmdS0xLCPT01P1aTSb4cb37yqIy/ZsmJJ/4XrKb4KeJ76PAm4t/pGVfW2aBMqxYlqhOR8Nr9osoo6esmywhVacjpzTnWdk1xrQoSMw7togxuu12W9K8+9QyWhFgeI2jHFp/ZAlPlRVNF8eGv0i2StWj5/60bniL4vcVo5tCPa+gBalb1pEeRs2xSqOEblsm/DzBj4xSXv9a7x5JLmHViNX3vZxobV6ZkYK73ODXN3xE+UbN+nvKSJQImxqr4nsNSLXN1nkk5oIftmnGyWsZxbJpK9YfPljd/0EYJ7uWSb3IV0LXhLO96KJbp8F9WN+kGIN8xZjtEX9/rqBLW9CHM2WM1JqvmtGPkxc/1PztWIQAC4CAuEGwTwIgFq6UxopHjL/yiEvjMsvzR5pTduiNvcOf7MwZfSetluVStUDY/LNh87wOaIEHMMMWyHAPiE0dEEvEnlKXJH+j2+ej4eFgEA0pZdkvWvBIPOhBzjwTu/BLnq0K0fhGOadr2btIvshtLWy0JEVtUW5jbkP55UWhLPq9ZHIWT0hcHXYmkVPwTsJf0Q2LSYcXYqFXRPWa1SY5uWuWyIa9GuQbzcQrHUdAxs5AxhD126m7jBVsXshpUWdgUbMkJ2Bhe2Du1LPPadv2trbd3gN152CWm4owOWjMM1oMMN0mBgwx3YXDTgXb61YbagY31NxxQzGSRzz76Eboa4DRgLeQKWnFD7JivY5ECL89E7B2MUMwASEw4RGpMIdU0BMfgQtQDfUQzz6FDga0K8DUyF0SqdrU8yzUa4zOqJ8IZKYXXBicricEAhkYCEQPc6ATEVEgHu1b3UrZoTr9wth437AjqMWPesBLoy0GlGsEOCTfjQV4EIwrwBEEA+6/2ytwfC5uU7u6G0CAo+AWHmtcBY4tjg1bwkTo6Nl23VXR+/hsCR52t4aju7nAJSCYiDoq8LOZ6xs+dEgFjmD2GKckfp/IoxqpxCcyv8RI0qcg26MiqwZAYlBxjmDKBXfxbSSZbbNZ8l29ViNoMpioNcLc+3dDNkPsi2EF+ni5mo0NUwsbRsvWfJi8KA54ZF3yPQCKpXT9tqmgMliKv/jmygCFpluBRLLJqc8OiJyxgtnMnkDfeb48iJQsyMmS30gt7DL+j6SokKP11c8DYT8js2wTCNW3zUJ9/fM4jLz8RlgmkCTMeQM0pYfWBvDP1B53aoyecydkupueUp4mldLPmfeb81iSnoLenpicliNqWBuPdAowNI+M9cVe6MSjS5baJUEZNZhp+EYIZg4FJ53k5tkh66+B0dXI6afhi1GRE8ujbPy0OA3PGbHMOAlB/uweRrPQEs1Q2ANY/8Nak81L2MT3mdHGXCgzU/29gzAPvZCpR/pzEPpJrXVNsqqMeJy28r9G8jeWLWXvh3oNV8dl/ScBKBgxC8BQ6cYsO5C1hUJF7NUq7TYKyu2HheLWmsw697wOKa97NhIsLNmz7VS5F6Sgzv0sxBw+xnDbwB6QmElUpYcLy4cWtnhjKW/g0eINdojFVqachMrIqZT9ej75QZdPeGEJNJBNQQ9xJnApj50dZ46pCcxLblQfstBR+9oOHQNHOg5VIDIP0+eGi3CtD5nJEjYH6i1ZMnyf12+yBDdtUyDSSzxYgWjmj1sgwjBxLBmNSVXZtMJvFUFw7vyNvCnwhhQELp+njVSc7py9+BeevQTQOTmfswzlnO4MYRyYn2G5eqc7ZJZezIJUT+7pDhnPUTzqrX7tUrto0dJFfl0e9Cwc0j7jz+WQv7g3hIsri0x/BEfqMVGDhRi40KA4L7PmC0vz17trMxEO9agDVObxeFUchVNH+VkK6Hi8Kg7M+YfCBkFsbF9NDVbhEpfHj/3rXXn8zxT4+T8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-16T10:00:07.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="Melem8FrHjxiUcN7BpMR" version="20.4.1" type="github">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="1896" dy="1093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Client" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="130" y="170" width="280" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Short-lived access token &#xa;được lấy được sau login" style="" parent="2" vertex="1">
+          <mxGeometry x="40" y="70" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.004;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2" target="15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="132" as="sourcePoint" />
+            <mxPoint x="370" y="172" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="Client muốn lấy dữ liệu từ Facebook&#xa;" style="" parent="2" vertex="1">
+          <mxGeometry x="35" y="342" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-130" value="Client sử dụng code gửi yêu cầu &#xa;đến Facebook để&#xa; lấy long-lived access token " style="" vertex="1" parent="2">
+          <mxGeometry x="25" y="620" width="230" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-129" value="Client sử dụng &#xa;Long-lived access token&#xa; từ Facebook gửi về để call APIs " style="" vertex="1" parent="2">
+          <mxGeometry x="35" y="780" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Your Server" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="440" y="170" width="280" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Nhận short-lived access token, &#xa;thêm mã bảo mật của App và App ID" style="" parent="3" vertex="1">
+          <mxGeometry x="40" y="122" width="210" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Nhận Long-lived access token&#xa; từ Facebook.&#xa;Lưu lại token " style="" parent="3" vertex="1">
+          <mxGeometry x="25" y="232" width="230" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-121" value="Server nhận yêu cầu từ Client và&#xa;Long-lived user access token&#xa; được lưu trên server" style="" vertex="1" parent="3">
+          <mxGeometry x="40" y="410" width="200" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-128" value="Server nhận code từ &#xa;Facebook và gửi lại cho Client" style="" vertex="1" parent="3">
+          <mxGeometry x="45" y="540" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Facebook" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="740" y="170" width="280" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="Tạo long-lived&#xa; access token" style="" parent="4" vertex="1">
+          <mxGeometry x="85" y="192" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-126" value="Tạo code và trả lại cho server" style="" vertex="1" parent="4">
+          <mxGeometry x="52.5" y="451" width="200" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-131" value="Facebook tạo long-lived&#xa; access token cho client" style="" vertex="1" parent="4">
+          <mxGeometry x="52.5" y="700" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-137" value="Graph API" style="" vertex="1" parent="4">
+          <mxGeometry x="85" y="850" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.045;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=0.402;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="30" target="18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690.0000000000002" y="340" as="sourcePoint" />
+            <mxPoint x="700" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-49" value="Client" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="90" y="2760" width="280" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-52" value="Client sử dụng &#xa;Long-lived access token&#xa; từ Facebook gửi về để call APIs " style="" vertex="1" parent="9IyJoM5hvWDBEFWBTarM-49">
+          <mxGeometry x="20" y="430" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-55" value="Client sử dụng code gửi yêu cầu &#xa;đến Facebook để&#xa; lấy long-lived access token " style="" vertex="1" parent="9IyJoM5hvWDBEFWBTarM-49">
+          <mxGeometry x="25" y="290" width="230" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-53" value="Your Server" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="420" y="2760" width="280" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-50" value="Long-lived user access token&#xa; được lưu trên server" style="" vertex="1" parent="9IyJoM5hvWDBEFWBTarM-53">
+          <mxGeometry x="35" y="40" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-58" value="Server nhận code từ &#xa;Facebook và gửi lại cho Client" style="" vertex="1" parent="9IyJoM5hvWDBEFWBTarM-53">
+          <mxGeometry x="40" y="210" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-57" value="Facebook" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="730" y="2760" width="280" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-59" value="Facebook tạo long-lived&#xa; access token cho client" style="" vertex="1" parent="9IyJoM5hvWDBEFWBTarM-57">
+          <mxGeometry x="52.5" y="380" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-54" value="Tạo code và trả lại cho server" style="" vertex="1" parent="9IyJoM5hvWDBEFWBTarM-57">
+          <mxGeometry x="35" y="130" width="210" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-64" value="Graph API" style="" vertex="1" parent="9IyJoM5hvWDBEFWBTarM-57">
+          <mxGeometry x="85" y="540" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.013;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.001;exitY=0.89;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9IyJoM5hvWDBEFWBTarM-59" target="9IyJoM5hvWDBEFWBTarM-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="3200" as="sourcePoint" />
+            <mxPoint x="560" y="3200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.008;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.99;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9IyJoM5hvWDBEFWBTarM-55" target="9IyJoM5hvWDBEFWBTarM-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700.0000000000002" y="3002" as="sourcePoint" />
+            <mxPoint x="846.9800000000005" y="3080.05" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.995;exitY=0.528;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.014;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="9IyJoM5hvWDBEFWBTarM-54" source="9IyJoM5hvWDBEFWBTarM-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="2892" as="sourcePoint" />
+            <mxPoint x="800" y="2900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.998;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.009;exitY=0.952;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="9IyJoM5hvWDBEFWBTarM-58" source="9IyJoM5hvWDBEFWBTarM-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="2962" as="sourcePoint" />
+            <mxPoint x="760.8399999999999" y="3008.7239999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.012;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="9IyJoM5hvWDBEFWBTarM-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="3030" as="sourcePoint" />
+            <mxPoint x="670" y="3102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.561;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.008;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9IyJoM5hvWDBEFWBTarM-52" target="9IyJoM5hvWDBEFWBTarM-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680.0000000000002" y="2982" as="sourcePoint" />
+            <mxPoint x="826.9800000000005" y="3060.05" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-114" value="Client gửi yêu cầu đăng nhập &#xa;và cấp quyền qua SDK và Login Dialog" style="" vertex="1" parent="1">
+          <mxGeometry x="130" y="2210" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-115" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.011;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9IyJoM5hvWDBEFWBTarM-114" target="9IyJoM5hvWDBEFWBTarM-116">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1940" as="sourcePoint" />
+            <mxPoint x="653.94" y="1999.0359999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-116" value="User  thực hiện xác thực và&#xa; chấp thuận các quyền truy cập " style="" vertex="1" parent="1">
+          <mxGeometry x="490" y="2310" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-117" value="Facebook trả lại access token cho client,&#xa;Client sử dụng token&#xa; short-term access token (web)&#xa;hoặc long-term access token (ứng dụng di động)&#xa;để thực hiện call API" style="" vertex="1" parent="1">
+          <mxGeometry x="110" y="2440" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-118" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.007;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.995;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9IyJoM5hvWDBEFWBTarM-116" target="9IyJoM5hvWDBEFWBTarM-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="1950" as="sourcePoint" />
+            <mxPoint x="538.4699999999998" y="1991.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-119" value="Graph API" style="" vertex="1" parent="1">
+          <mxGeometry x="490" y="2560" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-120" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.006;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.011;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9IyJoM5hvWDBEFWBTarM-117" target="9IyJoM5hvWDBEFWBTarM-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="531.6099999999999" y="2088" as="sourcePoint" />
+            <mxPoint x="458.64999999999986" y="2130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-125" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.01;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="16" target="9IyJoM5hvWDBEFWBTarM-121">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="839.9500000000003" y="423" as="sourcePoint" />
+            <mxPoint x="707.7599999999998" y="472.808" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-127" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.006;exitY=0.317;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.01;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9IyJoM5hvWDBEFWBTarM-121" target="9IyJoM5hvWDBEFWBTarM-126">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380.8399999999999" y="677.5999999999999" as="sourcePoint" />
+            <mxPoint x="496.9999999999998" y="721.3999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-132" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.998;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.007;exitY=0.965;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9IyJoM5hvWDBEFWBTarM-131" target="9IyJoM5hvWDBEFWBTarM-129">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="826.25" y="1200" as="sourcePoint" />
+            <mxPoint x="606.25" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-133" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.008;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.99;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9IyJoM5hvWDBEFWBTarM-130" target="9IyJoM5hvWDBEFWBTarM-131">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="746.2500000000002" y="1002" as="sourcePoint" />
+            <mxPoint x="893.2300000000005" y="1080.0500000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-134" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.008;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9IyJoM5hvWDBEFWBTarM-129" target="9IyJoM5hvWDBEFWBTarM-137">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="726.2500000000002" y="982" as="sourcePoint" />
+            <mxPoint x="861.25" y="1328.0500000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-135" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.995;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.008;exitY=0.924;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9IyJoM5hvWDBEFWBTarM-126" target="9IyJoM5hvWDBEFWBTarM-128">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="970" as="sourcePoint" />
+            <mxPoint x="788.4000000000005" y="828.0880000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-136" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.003;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.01;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9IyJoM5hvWDBEFWBTarM-128" target="9IyJoM5hvWDBEFWBTarM-130">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="788.4000000000005" y="872.8320000000001" as="sourcePoint" />
+            <mxPoint x="694" y="909.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.009;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.004;exitY=0.791;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="15" target="30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="330" as="sourcePoint" />
+            <mxPoint x="780.8399999999999" y="376.7239999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-163" value="Client" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="130" y="1320" width="280" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-164" value="Short-lived access token &#xa;được lấy được sau login" style="" vertex="1" parent="9IyJoM5hvWDBEFWBTarM-163">
+          <mxGeometry x="40" y="70" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-165" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.004;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9IyJoM5hvWDBEFWBTarM-163" target="9IyJoM5hvWDBEFWBTarM-170">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="132" as="sourcePoint" />
+            <mxPoint x="370" y="172" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-166" value="Client muốn lấy dữ liệu từ Facebook&#xa;" style="" vertex="1" parent="9IyJoM5hvWDBEFWBTarM-163">
+          <mxGeometry x="40" y="380" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-169" value="Your Server" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="440" y="1320" width="280" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-170" value="Nhận short-lived access token, &#xa;thêm mã bảo mật của App và App ID" style="" vertex="1" parent="9IyJoM5hvWDBEFWBTarM-169">
+          <mxGeometry x="40" y="122" width="210" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-171" value="Nhận Long-lived access token&#xa; từ Facebook.&#xa;Lưu lại token " style="" vertex="1" parent="9IyJoM5hvWDBEFWBTarM-169">
+          <mxGeometry x="25" y="232" width="230" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-174" value="Facebook" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="740" y="1320" width="280" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-175" value="Tạo long-lived&#xa; access token" style="" vertex="1" parent="9IyJoM5hvWDBEFWBTarM-174">
+          <mxGeometry x="85" y="192" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-178" value="Graph API" style="" vertex="1" parent="9IyJoM5hvWDBEFWBTarM-174">
+          <mxGeometry x="50" y="360" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-179" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.045;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=0.402;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9IyJoM5hvWDBEFWBTarM-175" target="9IyJoM5hvWDBEFWBTarM-171">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690.0000000000002" y="1490" as="sourcePoint" />
+            <mxPoint x="700" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-181" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.993;exitY=1.021;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.021;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9IyJoM5hvWDBEFWBTarM-171" target="9IyJoM5hvWDBEFWBTarM-178">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="681.2000000000003" y="1757.8960000000002" as="sourcePoint" />
+            <mxPoint x="782" y="1662.4479999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9IyJoM5hvWDBEFWBTarM-187" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.009;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.004;exitY=0.791;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9IyJoM5hvWDBEFWBTarM-170" target="9IyJoM5hvWDBEFWBTarM-175">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="1480" as="sourcePoint" />
+            <mxPoint x="780.8399999999999" y="1526.7239999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
